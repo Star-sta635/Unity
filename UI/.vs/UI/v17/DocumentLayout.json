@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Z1883\\OneDrive\\Desktop\\UI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|c:\\users\\z1883\\onedrive\\desktop\\ui\\assets\\scripts\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|c:\\users\\z1883\\onedrive\\desktop\\ui\\assets\\script\\utils\\commonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\utils\\commonutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|C:\\Users\\Z1883\\OneDrive\\Desktop\\UI\\assets\\back.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|solutionrelative:assets\\back.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|C:\\Users\\Z1883\\OneDrive\\Desktop\\UI\\assets\\jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB40B3AE-6C9A-B1E1-B01B-22B1E324FC0E}|Assembly-CSharp.csproj|solutionrelative:assets\\jump.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "C:\\Users\\Z1883\\OneDrive\\Desktop\\UI\\Assets\\Scripts\\LoginService.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoginService.cs",
+              "ToolTip": "C:\\Users\\Z1883\\OneDrive\\Desktop\\UI\\Assets\\Scripts\\LoginService.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoginService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T06:55:33.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CommonUtils.cs",
+              "DocumentMoniker": "C:\\Users\\Z1883\\OneDrive\\Desktop\\UI\\Assets\\Script\\Utils\\CommonUtils.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Utils\\CommonUtils.cs",
+              "ToolTip": "C:\\Users\\Z1883\\OneDrive\\Desktop\\UI\\Assets\\Script\\Utils\\CommonUtils.cs",
+              "RelativeToolTip": "Assets\\Script\\Utils\\CommonUtils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T03:32:24.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Back.cs",
+              "DocumentMoniker": "C:\\Users\\Z1883\\OneDrive\\Desktop\\UI\\Assets\\Back.cs",
+              "RelativeDocumentMoniker": "Assets\\Back.cs",
+              "ToolTip": "C:\\Users\\Z1883\\OneDrive\\Desktop\\UI\\Assets\\Back.cs",
+              "RelativeToolTip": "Assets\\Back.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABOwBMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T10:14:37.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Jump.cs",
+              "DocumentMoniker": "C:\\Users\\Z1883\\OneDrive\\Desktop\\UI\\Assets\\Jump.cs",
+              "RelativeDocumentMoniker": "Assets\\Jump.cs",
+              "ToolTip": "C:\\Users\\Z1883\\OneDrive\\Desktop\\UI\\Assets\\Jump.cs",
+              "RelativeToolTip": "Assets\\Jump.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAgwBwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:50:09.106Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
